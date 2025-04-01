@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/SDK/VisualStudio/VisualStudio2022E/VC/Tools/MSVC/14.43.34808/include/**",
+                "C:/Users/Administrator/AppData/Local/.xmake/packages/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "WPCAP",
+                "HAVE_REMOTE",
+                "_XKEYCHECK_H",
+                "WIN32"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x86"
+        }
+    ],
+    "version": 4
+}
