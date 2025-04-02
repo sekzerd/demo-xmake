@@ -1,4 +1,4 @@
-# demo_xmake
+# demo-xmake
 
 ### how to use
 
